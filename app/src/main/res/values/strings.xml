@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraUsingIntent</string>
+    <string name="capture_image">CAPTURE IMAGE</string>
+    <string name="capture_video">CAPTURE VIDEO</string>
+</resources>

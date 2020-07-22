@@ -1,0 +1,2 @@
+rootProject.name='CameraUsingIntent'
+include ':app'
