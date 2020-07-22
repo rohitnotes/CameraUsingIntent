@@ -1,6 +1,4 @@
 # CameraUsingIntent
-FourLevelExpandUsingRecyclerView
-==========
 
 | first      | second      | third   | fourth     |
 |------------|-------------|-------------|-------------|
